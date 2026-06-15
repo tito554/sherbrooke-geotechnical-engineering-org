@@ -1,0 +1,45 @@
+# Geotechnical Engineering — Sherbrooke
+
+> Geotechnical engineering services in Sherbrooke, Canada.
+
+## Services
+- [Anchors](https://sherbrooke.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://sherbrooke.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://sherbrooke.geotechnical-engineering.org/cbr-road/)
+- [Excavation Monitoring](https://sherbrooke.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://sherbrooke.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://sherbrooke.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://sherbrooke.geotechnical-engineering.org/footings/)
+- [Foundations](https://sherbrooke.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://sherbrooke.geotechnical-engineering.org/geophysics/)
+- [Ground Improvement](https://sherbrooke.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://sherbrooke.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://sherbrooke.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://sherbrooke.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://sherbrooke.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://sherbrooke.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://sherbrooke.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://sherbrooke.geotechnical-engineering.org/masw/)
+- [Mat Foundations](https://sherbrooke.geotechnical-engineering.org/mat-foundations/)
+- [Piles](https://sherbrooke.geotechnical-engineering.org/piles/)
+- [Plate Load Test](https://sherbrooke.geotechnical-engineering.org/plate-load-test/)
+- [Retaining Walls](https://sherbrooke.geotechnical-engineering.org/retaining-walls/)
+- [Road Geotechnics](https://sherbrooke.geotechnical-engineering.org/road-geotechnics/)
+- [Seismic](https://sherbrooke.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://sherbrooke.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Microzonation](https://sherbrooke.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://sherbrooke.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://sherbrooke.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://sherbrooke.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://sherbrooke.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://sherbrooke.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://sherbrooke.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://sherbrooke.geotechnical-engineering.org/test-pits/)
+- [Vibrocompaction](https://sherbrooke.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://sherbrooke.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Sherbrooke, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
